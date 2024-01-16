@@ -11,7 +11,7 @@ import SwiftUI
 struct Geometry_HelperApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CircleView()
         }
     }
 }
